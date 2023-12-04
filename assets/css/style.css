@@ -89,6 +89,7 @@ nav .navbar-collapse {
   position: fixed;
   inset: 0;  
   transition: all 250ms ease-in-out;
+  transform: translateX(100%);
 }
 
 .navbar-collapse-inner {
